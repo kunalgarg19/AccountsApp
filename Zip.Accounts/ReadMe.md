@@ -11,3 +11,6 @@ Solution using Asp.Net Core and Onion Architecture
 
 I tried to run with dockers, but docker is not supported on my laptop. So, skipped that for now.
 
+Below is the screenshot from the swashbuckle page.
+
+![API](/Zip.Accounts/Capture.PNG)
